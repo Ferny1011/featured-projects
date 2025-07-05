@@ -15,9 +15,9 @@ This portfolio brings together a selection of personal projects that reflect my 
 - 📱 Responsive design for mobile and desktop
 
 **Tech Stack:** React, Vite, Tailwind CSS.
-🔗 movie-app-indol-sigma-76.vercel.app | 📂 [Repository](https://github.com/Ferny1011/movieApp)
+🔗 [Live Demo](https://movie-app-indol-sigma-76.vercel.app) | 📂 [Repository](https://github.com/Ferny1011/movieApp)
 
-![MovieApp](https://github.com/Ferny1011/movieApp/blob/main/public/hero.png)
+![MovieApp](https://github.com/Ferny1011/movieApp/blob/main/src/assets/home.png)
 
 ---
 
